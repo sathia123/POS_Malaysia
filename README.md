@@ -25,3 +25,11 @@ This repository contains a Postman collection for API testing.
 Ensure you have **Node.js** installed, then run:
 ```sh
 npm install -g newman
+Install newman reporter
+```sh
+npm install -g newman-reporter-htmlextra
+- Download the `postman_collection.json` file.
+- Navigate to the collection folder in CLI
+- Execute the below command
+```sh
+
