@@ -16,7 +16,7 @@ This repository contains a Postman collection for API testing.
 ### **1️⃣ Run in Postman Manually**
 - Open **Postman**.
 - Go to **Collections** → Select the imported collection.
-- Click **Run** to execute all requests.
+- Click **Run Collection** to execute all requests.
 
 ### **2️⃣ Run via CLI using Newman**
 [Newman](https://www.npmjs.com/package/newman) is a command-line tool to run Postman collections.
