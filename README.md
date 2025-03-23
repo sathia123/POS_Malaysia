@@ -23,6 +23,10 @@ This repository contains a Postman collection for API testing.
 
 #### **🔹 Install Newman (If Not Installed)**
 Ensure you have **Node.js** installed, then run:
-```sh
-npm install -g newman
+`npm install -g newman`
 
+
+1. Navigate to the folder where postman_collection is imported
+2. In visual code studio, open terminal
+3. Execute `node test.js` (test script) to run test
+4. Report will be generated in **newman** folder
