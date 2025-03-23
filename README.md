@@ -1,9 +1,9 @@
 # POS_Malaysia
-# Postman Collection 🚀
+# Postman Collection
 
 This repository contains a Postman collection for API testing.
 
-## 📥 How to Import the Collection
+## How to Import the Collection
 1. Download the `postman_collection.json` file.
 2. Open **Postman**.
 3. Click **Import** and select the JSON file.
@@ -11,7 +11,7 @@ This repository contains a Postman collection for API testing.
 
 ---
 
-## 🏃‍♂️ How to Run the Collection
+## How to Run the Collection
 
 ### **1️⃣ Run in Postman Manually**
 - Open **Postman**.
